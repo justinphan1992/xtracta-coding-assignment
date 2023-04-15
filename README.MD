@@ -66,7 +66,7 @@ This will start the client server at http://localhost:5173.
 
 ## Usage
 
-Once the API and client servers are running, you can access the web application by opening your web browser and navigating to http://localhost:8080.
+Once the API and client servers are running, you can access the web application by opening your web browser and navigating to http://localhost:5173.
 
 ## Testing
 
