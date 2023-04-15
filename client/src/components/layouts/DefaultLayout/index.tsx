@@ -1,5 +1,6 @@
 import { Layout } from 'antd';
-import styles from './index.module.css'
+
+import styles from './index.module.css';
 const { Header, Content } = Layout;
 
 export type DefaultLayoutProps = {
