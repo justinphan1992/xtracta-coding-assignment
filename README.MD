@@ -1,16 +1,19 @@
-#Xtracta coding challenge
+# Xtracta coding challenge
 
 This project is a web application that utilizes NestJS for the API backend and ReactJS for the client-side frontend.
 
-##Installation
+#### [Link Demo](https://www.loom.com/share/6b57f52a740243cfa7fb797e5f789fd1)
 
-###Prerequisites
+## Installation
+
+### Prerequisites
+
 To run this project, you need to have the following software installed on your machine:
 
-Node.js (version 18.15 or higher)
-Yarn (version 1.22 or higher)
+- Node.js (version 18.15 or higher)
+- Yarn (version 1.22 or higher)
 
-####Installing the API
+#### Installing the API
 
 1. Clone the repository to your local machine.
 2. Open a terminal and navigate to the api folder in the project directory.
@@ -39,7 +42,7 @@ yarn start
 
 This will start the API server at http://localhost:3000
 
-####Installing the client
+#### Installing the client
 
 1. Open a new terminal window and navigate to the client folder in the project directory.
 
@@ -61,11 +64,11 @@ yarn dev
 
 This will start the client server at http://localhost:5173.
 
-##Usage
+## Usage
 
 Once the API and client servers are running, you can access the web application by opening your web browser and navigating to http://localhost:8080.
 
-##Testing
+## Testing
 
 #### Unit Tests
 
