@@ -56,7 +56,13 @@ cd client
 yarn install
 ```
 
-3. Start the client server.
+3. Create a .env file in the client folder and set the environment variables. You can copy the .env.example file and modify it accordingly.
+
+```bash
+cp .env.example .env
+```
+
+4. Start the client server.
 
 ```bash
 yarn dev
